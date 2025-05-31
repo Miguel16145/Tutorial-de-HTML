@@ -1,0 +1,43 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+   height: 150px;
+    background-color: rgb(181, 102, 44);
+    color:white;
+}
+header h1{
+    margin-bottom: 25px;
+}
+header p a{
+    color:white;
+
+}
+main{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom:10px;
+}
+main p, h2, h3{
+    text-align: justify;
+    margin:10px;
+}
+
+#img-grande{
+    width:500px;
+    height:400px;
+}
+footer{
+background-color: rgb(11, 3, 37);
+color:white;
+height: 100px;
+}
+footer p{
+    margin: 10px;
+}
+footer a{
+    color:white;
+}
